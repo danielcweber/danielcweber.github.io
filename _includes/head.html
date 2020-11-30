@@ -1,4 +1,5 @@
 ﻿<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'self'; style-src-elem 'self' 'unsafe-inline'; img-src 'self'; script-src 'self' 'unsafe-inline'; font-src 'self'; object-src 'self'; form-action 'self'" />
 
 {% include seo.html %}
 
@@ -8,7 +9,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+    document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
 <!-- For all browsers -->
