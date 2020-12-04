@@ -19,7 +19,12 @@
     // Open external links in a popup modal notice
     $(window).on('load', function () {
         $.expr[":"].external = function (a) {
-            return !a.href.match(/^mailto\:/) && !a.href.match(/^tel\:/) && new URL(a.href).host !== (window.location.host);
+            try {
+                return !a.href.match(/^mailto\:/) && !a.href.match(/^tel\:/) && new URL(a.href).host !== (window.location.host);
+            }
+            catch (ex) {
+                return true;
+            }
         };
 
         $("a:external").click(function (z) {
