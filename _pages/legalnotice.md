@@ -8,15 +8,19 @@ redirect_from:
 ---
 
 ## Angaben gemäß §5 TMG
-Daniel Weber<br>
-Arndtstr. 8<br>
-52064 Aachen<br>
-Germany
+Daniel Weber<br/>
+Arndtstraße 8<br/>
+52064 Aachen<br/>
 
 ## Kontakt
 E-Mail: webmaster@danielcweber.net
 
-## Haftung für Inhalte
+## Verantwortlicher gemäß § 55 Abs. 2 RStV:
+Daniel Weber<br/>
+Arndtstraße 8<br/>
+52064 Aachen<br/>
+
+### Haftung für Inhalte
 Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den
 allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht
 verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu
