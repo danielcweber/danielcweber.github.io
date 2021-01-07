@@ -20,6 +20,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark
 search: true
+og_image: /assets/images/profile400.png
 
 # Build settings
 markdown: kramdown
