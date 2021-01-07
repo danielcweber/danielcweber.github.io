@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <LangVersion>9.0</LangVersion>
+    <Nullable>enable</Nullable>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\..\_posts\AsyncEnumerableSplit.cs" Link="AsyncEnumerableSplit.cs" />
+  </ItemGroup>
+
+</Project>
