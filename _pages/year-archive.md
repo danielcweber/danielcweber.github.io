@@ -1,5 +1,5 @@
 ---
-title: "Blog posts by year"
+title: "Blog"
 permalink: /blog/
 layout: posts
 author_profile: true

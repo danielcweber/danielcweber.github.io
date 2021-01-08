@@ -1,0 +1,15 @@
+---
+layout: single
+---
+
+{{ content }}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+{% assign posts = site.posts | where_exp: "item", "item.hidden != true" %}
+
+<div class="entries-{{ entries_layout }}">
+    {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+    {% endfor %}
+</div>
+<a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
