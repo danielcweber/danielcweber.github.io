@@ -1,4 +1,5 @@
 ---
+classes: wide
 title: "Blog"
 permalink: /blog/
 layout: posts
