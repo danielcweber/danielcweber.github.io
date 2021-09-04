@@ -3,3 +3,5 @@ main:
     url: /blog/
   - title: "About"
     url: /about/
+  - title: "Legal Notice/Privacy"
+    url: /legalnotice/
