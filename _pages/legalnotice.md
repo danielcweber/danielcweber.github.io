@@ -93,28 +93,27 @@ personenbezogenen Daten durch uns zu beschweren.
 
 ### 3. Erhebung personenbezogener Daten bei Besuch unserer Website
 
-(1) Bei der bloß informatorischen
-Nutzung der Website, also wenn Sie sich nicht registrieren oder uns anderweitig
-Informationen übermitteln, erheben wir nur die personenbezogenen Daten, die Ihr
-Browser an unseren Server übermittelt. Wenn Sie unsere Website betrachten
-möchten, erheben wir die folgenden Daten, die für uns technisch erforderlich
-sind, um Ihnen unsere Website anzuzeigen und die Stabilität und Sicherheit zu
-gewährleisten (Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO):
+(1) Unsere Webseite wird statisch auf Github Pages gehostet, einem Service von GitHub, Inc.
+Bei der bloß informatorischen Nutzung der Website, also wenn Sie sich nicht registrieren
+oder uns anderweitig Informationen übermitteln, können bestimmte Daten automatisch erfasst 
+und verarbeitet werden, wie in der Datenschutzerklärung von GitHub beschrieben.
+Diese Daten können unter anderem Informationen über Ihren Besuch auf unserer Webseite,
+die von Ihnen verwendeten Geräte und Browsertypen sowie Ihre IP-Adresse umfassen.
+Wir möchten darauf hinweisen, dass die Datenschutzpraktiken von GitHub von unseren abweichen können.
+Daher empfehlen wir Ihnen, sich auch mit der Datenschutzerklärung von GitHub vertraut
+zu machen, um zu verstehen, wie Ihre Daten auf der Plattform von GitHub verwendet werden.
+Die Datenschutzerklärung von GitHub ist unter
+https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement
+abrufbar.
 
-- IP-Adresse<br/>
-- Datum und Uhrzeit der Anfrage<br/>
-- Zeitzonendifferenz zur Greenwich Mean Time (GMT)<br/>
-- Inhalt der Anforderung (konkrete Seite)<br/>
-- Zugriffsstatus/HTTP-Statuscode<br/>
-- jeweils übertragene Datenmenge<br/>
-- Website, von der die Anforderung kommt<br/>
-- Browser<br/>
-- Betriebssystem und dessen Oberfläche<br/>
-- Sprache und Version der Browsersoftware.
+(2) Adressen des Hosting-Anbieters:
 
-(2) Unsere Webseite verwendet
-weder Cookies noch Tracker. Sollte sich dies durch eine Veränderung durch den
-Hoster ändern, werden wir Sie hier darüber informieren.
+(2a) GitHub B.V Prins Bernhardplein 200, Amsterdam 1097JB, Niederlande
+
+(2b) GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 United States
+ 
+(3) Unsere Webseite verwendet weder Cookies noch Tracker. Sollte sich dies durch eine
+Veränderung durch den Hoster ändern, werden wir Sie hier darüber informieren.
 
 ### 4. Widerspruch oder Widerruf gegen die Verarbeitung Ihrer Daten
 
@@ -218,10 +217,6 @@ zum Schutze Ihrer Privatsphäre.
 
 (3b) Twitter,Inc., 1355 Market St, Suite 900, San Francisco, California 94103, USA; https://twitter.com/privacy.
 
-(4) Diese Webseite wurde über GitHub (Datenschutzerklärung: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement)
-unter Verwendung der Themes von Jekyll (www.jekyllrb.com) und Minimal Mistakes (www.mademistakes.com; Datenschutzerklärung: https://mademistakes.com/terms/)
-erstellt. Wir haben weder eine Kooperation mit den Betreibern dieser Seiten, noch senden wir diesen Daten.
-
 ### 7. Datensicherheit
 
 Wir verwenden innerhalb des Website-Besuchs das verbreitete SSL-Verfahren (Secure Socket Layer) in
@@ -294,25 +289,23 @@ processing of your personal data by us.
 
 ### 3. Collection of personal data when you visit our website
 
-(1) If you only use the website for informational purposes, i.e. if you do not register or
-otherwise provide us with information, we only collect the personal data that
-your browser transmits to our server. If you want to view our website, we
-collect the following data, which is technically necessary for us to display
-our website to you and to guarantee stability and security (legal basis is Art.
-6 Para. 1 S. 1 lit.f GDPR):
+(1) Our website is statically hosted on Github Pages, a service provided by GitHub, Inc. 
+If you only use the website for informational purposes, i.e. if you do not register or
+otherwise provide us with information, certain data may be automatically collected and
+processed, as described in GitHub's Privacy Policy. This data may include information
+about your visit to our website, the devices and browsers you use, and your IP address.
+Please note that GitHub's privacy practices may differ from ours. Therefore, we recommend
+familiarizing yourself with GitHub's Privacy Policy to understand how your data is used on
+the GitHub platform. GitHub's privacy policy is accessible through
+https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement.
 
-- IP address<br/>
-- Date and time of the request<br/>
-- Time zone difference to Greenwich Mean Time (GMT)<br/>
-- content of the request (specific page)<br/>
-- Access status / HTTP status code<br/>
-- Amount of data transferred in each case<br/>
-- Website from which the request came<br/>
-- Browser<br/>
-- Operating system and its interface<br/>
-- Language and version of the browser software.
+(2) Addresses of the hosting provider:
 
-(2) Our website uses neither cookies nor trackers. Should this change due to a change by the
+(2a) GitHub B.V Prins Bernhardplein 200, Amsterdam 1097JB, Niederlande
+
+(2b) GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 United States
+
+(3) Our website uses neither cookies nor trackers. Should this change due to a change by the
 hoster, we will inform you about it.
 
 ### 4. Objection or revocation against the processing of your data
@@ -413,10 +406,6 @@ on your rights in this regard and setting options to protect your privacy.
 (3a) LinkedIn Corporation, 2029 Stierlin Court, Mountain View, California 94043, USA; http://www.linkedin.com/legal/privacy-policy.
 
 (3b) Twitter, Inc., 1355 Market St, Suite 900, San Francisco, California 94103, USA; https://twitter.com/privacy.
-
-(4) This website was created via GitHub (data protection declaration: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement)
-using the themes of Jekyll (www.jekyllrb.com) and Minimal Mistakes (www.mademistakes.com; data protection declaration: https://mademistakes.com/terms/). We have neither a cooperation with the
-operators of this website, nor do we send them your data.
 
 ### 7. Data security
 
