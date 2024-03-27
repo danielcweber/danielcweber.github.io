@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Daniel Weber"
   avatar : "assets/images/profile400.png"
-  bio    : "◽ Software Engineer<br/>◽ ‎‎M․Sc․ Comp.Sci.<br/>◽ Creator of ExRam.Gremlinq, a .NET object-graph-mapper for TinkerPop-enabled databases<br/>◽ He/him"
+  bio    : "◽ Software Engineer<br/>◽ M․Sc․ Comp.Sci.<br/>◽ Creator of ExRam.Gremlinq, a .NET object-graph-mapper for TinkerPop-enabled databases<br/>◽ He/him"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
